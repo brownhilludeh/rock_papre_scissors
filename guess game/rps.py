@@ -1,6 +1,6 @@
 import random
 
-
+# feel free to edit this code, make modifications and share
 # def rps():
 #     user = input(
 #         "choice? \n'r' for rock. \n's' for scissor \n'p' for paper \n")
