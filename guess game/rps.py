@@ -15,7 +15,6 @@ def rps():
     
     return (f'You lost. Comp chose {comp}')
 
-
 def win(player, opponent):
     if (player == 'r' and opponent == 's') \
             or (player == 's' and opponent == 'p') \
