@@ -4,7 +4,7 @@ import random
 
 def rps():
     user = input(
-        "choice? \n'r' for rock. \n's' for scissor \n'p' for paper \n")
+        "What is your choice? \n'r' for rock. \n's' for scissor \n'p' for paper \n")
     comp = random.choice(['r', 'p', 's'])
 
     if user == comp:
